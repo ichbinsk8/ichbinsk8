@@ -14,7 +14,7 @@
 <h2 align="center">🎵 Right now I am listening...</h2>
 <p align="center">
     <a href="spotify.com">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fisaajf2jcendz40ny6vsyl32&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=defd02&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" height="150px">
+    <img src="https://spotify-github-profile.ichbinsk8.com/api/view?uid=fisaajf2jcendz40ny6vsyl32&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=defd02&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile" height="150px">
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 ### 🔸 Other Technologies (Basic Knowledge)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery,insomnia,postman,git" />
+    <img src="https://skillicons.dev/icons?i=jquery,postman,git" />
   </a>
 </p>
 
@@ -52,21 +52,21 @@
 #### 🔹 Short Term
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,mongodb,nextjs,tailwind,kali" />
+    <img src="https://skillicons.dev/icons?i=cs,mongodb,bootstrap,gcp,azure" />
   </a>
 </p>
 
 #### 🔸 Medium Term
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nestjs,dotnet,aws,cs,laravel" />
+    <img src="https://skillicons.dev/icons?i=angular,nestjs,dotnet,aws,cs,kubernetes" />
   </a>
 </p>
 
 #### 🔻 Long Term
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,vim,wordpress" />
+    <img src="https://skillicons.dev/icons?i=py,react" />
   </a>
 </p>
 
