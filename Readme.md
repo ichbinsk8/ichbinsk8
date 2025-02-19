@@ -77,7 +77,7 @@
 ### 💼 Professional
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-angel-castro-8513b5230/">
+  <a href="https://www.linkedin.com/in/laura-celis-cueto/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -85,11 +85,8 @@
 ### 🏡 Personal
 
 <p align="center">
-  <a href="https://www.instagram.com/migue_macf/?hl=es-la">
+  <a href="https://www.instagram.com/ichbinsk8/?hl=es-la">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://discordapp.com/users/593272913755504640">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -98,9 +95,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel52CF&layout=compact&theme=merko" height="150px" />
-<img src="https://github-readme-stats.vercel.app/api?username=Miguel52CF&show_icons=true&theme=merko" height="150px" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel52CF&theme=merko" height="150px" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichbinsk8&layout=compact&theme=merko" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api?username=ichbinsk8&show_icons=true&theme=merko" height="150px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ichbinsk8&theme=merko" height="150px" /></p>
 
 ---
 
